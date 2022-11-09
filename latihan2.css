@@ -1,0 +1,34 @@
+.navbar
+{
+    background-image: url(gambar2.jpg);
+    background-size: cover;
+    border-radius: 2px;
+    text-align: center;
+}
+.butuh
+{
+    background-color: #f8f8f8;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 100px;
+    border-radius: 15%;
+    text-align: justify;
+}
+img
+{
+    background-color: #f8f8f8;
+    width: 250px;
+    height: 250px;
+    border-radius: 20%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 2px;
+    border: 5px solid rgb(0, 0, 0);
+}
+.space
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

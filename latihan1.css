@@ -1,0 +1,36 @@
+.navbar
+{
+    background-image: url(gambar2.jpg);
+    background-size: cover;
+    border-radius: 2px;
+}
+img
+{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 2px;
+    border: 5px solid rgb(0, 0, 0);
+}
+.tahap1
+{
+    margin-bottom: 50px;
+}
+.card
+{
+    width: fit-content;
+    height: fit-content;
+    
+}
+.bola
+{
+    text-align: justify center;
+    margin-top: 50px;
+}
+.mobile
+{
+    text-align: justify center;
+    margin-top: 50px;
+}
